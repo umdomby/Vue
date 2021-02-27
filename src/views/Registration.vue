@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Registration Heroes</h1>
+    <h1>Registration Heroes 333</h1>
   </div>
 </template>
 
